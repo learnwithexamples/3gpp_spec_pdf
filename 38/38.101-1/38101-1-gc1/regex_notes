@@ -1,0 +1,14 @@
+paragraph:
+
+<w:p w14:paraId="4B6EE096" w14:textId="77777777" w:rsidR="00DC7196" w:rsidRPr="001C0CC4" w:rsidRDefault="00DC7196" w:rsidP="00DC7196"><w:pPr><w:rPr><w:rFonts w:eastAsia="Yu Mincho"/></w:rPr></w:pPr></w:p>
+
+Table header:
+<w:p w14:paraId="77AAC0C4" w14:textId="271658A0" w:rsidR="00DC7196" w:rsidRDefault="00DC7196" w:rsidP="00DC7196"><w:pPr><w:pStyle w:val="TH"/><w:rPr><w:rFonts w:eastAsia="Yu Mincho"/></w:rPr></w:pPr><w:r w:rsidRPr="001C0CC4"><w:rPr><w:rFonts w:eastAsia="Yu Mincho"/></w:rPr><w:t>Table 5.3.5-1 Channel bandwidths for each NR band</w:t></w:r></w:p>
+
+Table:
+<w:tbl></w:tbl>
+
+
+
+
+</w:rPr><w:t>.</w:t></w:r></w:p></w:tc></w:tr></w:tbl>
